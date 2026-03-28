@@ -27,8 +27,8 @@ from telegram.ext import (
 #  SOZLAMALAR  —  faqat shu qatorlarni o'zgartiring
 # ═══════════════════════════════════════════════════════
 
-BOT_TOKEN   = "SIZNING_BOT_TOKENINGIZ"   # @BotFather dan
-GURUH_ID    = -1001234567890              # guruh chat ID (manfiy son)
+BOT_TOKEN   = "8696212455:AAGMEKuH1oNCZDSmxMUC62FcZYI_rcVTk9g"   # @BotFather dan
+GURUH_ID    = -1002402955460              # guruh chat ID (manfiy son)
 ADMIN_USERNAME = "@avtomentor_admin"      # admin username
 TIMEZONE    = "Asia/Tashkent"
 DARSLAR_FILE = "darslar.json"            # jadval saqlanadigan fayl
